@@ -6,7 +6,7 @@ Let's make some cool stuff!
 
 Time        |   Plan   |
 ----------------|-------
-9 - 12          | [Deploy on Day 1](https://learn.co/lessons/12270)
+9 - 12          | Campus Tour & Laptop Distribution
 12 - 1    | Lunch in the Quad
 1 - 2     | Icebreakers
 2 - 4     | Orientation stuff!
