@@ -1,4 +1,4 @@
-# Day 1 - Monday, June 6, 2016
+# Day 1 - Monday, August 29, 2016
 
 Welcome to Flatiron School! // :blue_heart:
 
