@@ -12,10 +12,6 @@ Time        |   Plan   |
 2 - 4     | Orientation stuff!
 4 - 6     | Finish up Deploy on Day 1, miscellaneous
 
-## Labs & Readmes Today
-
-  * Deploy on Day 1
-
 ## Reading
 
 * [Jacob Kaplan-Moss' Pycon 2015 keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE)
