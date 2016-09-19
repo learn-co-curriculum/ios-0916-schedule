@@ -8,6 +8,6 @@ Time        |   Plan   |
 ----------------|-------
 9 - 12  | Work on Labs
 12 - 1     | Lunch
-1 - 4     | Work on Labs
-4 - 5     | Review on Encoder/Decoder Lab
-5 - 6     | More Work on Labs
+1 - 3     | Work on Labs
+3 - 4:30     | Review on Encoder/Decoder Lab
+4:30 - 6     | More Work on Labs
