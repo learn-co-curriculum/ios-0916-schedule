@@ -1,8 +1,6 @@
 # Day 20 - Friday, September 23, 2016
 
-Finoacci! // :blue_heart:
-
-Let's make some cool stuff!
+Last day of Prework // :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
