@@ -18,6 +18,9 @@ Time        |   Plan   |
 ## Reading
 
 
+## Extra
+* [Putting the M in MVP](https://medium.freecodecamp.com/putting-the-m-in-mvp-71e036034ed9#.asgwznye7)
+
 
 <br>
 
