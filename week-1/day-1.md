@@ -17,7 +17,7 @@ Time        |   Plan   |
   * Deploy on Day 1
 
 ## Reading
-* [How a Computer works](http://computer.howstuffworks.com/question717.htm)
+* [What is a computer program](http://computer.howstuffworks.com/question717.htm)
 
 * [Jacob Kaplan-Moss' Pycon 2015 keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE)
     * Related article, [The Programming Talent Myth](https://lwn.net/Articles/641779/)
