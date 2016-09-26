@@ -20,6 +20,6 @@ Time        |   Plan   |
 ## Reading
 
 
-
+* [Swift Alternatives to C-style for-loops](https://www.natashatherobot.com/swift-alternatives-to-c-style-for-loops/)
 <br>
 
