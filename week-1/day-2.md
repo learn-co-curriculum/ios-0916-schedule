@@ -1,8 +1,10 @@
 # Day 2 - Tuesday, September 27, 2016
 
-Welcome to Flatiron School! // :blue_heart:
+Welcome to Day two! // :blue_heart:
 
-Let's make some cool stuff!
+### Work hard, be kind, and amazing things will happen.
+
+![Drawing](https://media.giphy.com/media/xT8qBdemIGlrdIEr1S/giphy.gif)
 
 Time        |   Plan   |
 ----------------|-------
