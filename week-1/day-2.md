@@ -1,4 +1,4 @@
-# Day 2 - Monday, September 27, 2016
+# Day 2 - Tuesday, September 27, 2016
 
 Welcome to Flatiron School! // :blue_heart:
 
