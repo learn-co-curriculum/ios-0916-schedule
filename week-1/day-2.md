@@ -22,5 +22,9 @@ Time        |   Plan   |
 
 * [Swift Alternatives to C-style for-loops](https://www.natashatherobot.com/swift-alternatives-to-c-style-for-loops/)
 * [Whats new in iOS 10 with Code](https://github.com/shu223/iOS-10-Sampler)
+
+## Extra Reading
+
+* [Configuring a Constant Using Shorthand Argument Names](https://www.natashatherobot.com/swift-configuring-a-constant-using-shorthand-argument-names/)
 <br>
 
