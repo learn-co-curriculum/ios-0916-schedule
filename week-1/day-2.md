@@ -8,6 +8,7 @@ Welcome to Day two! // :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
+9 - 10           | Logistics with Tony
 11 - 12          | Prework Review
 12 - 1    | Lunch
 1 - 2     | Icebreakers
