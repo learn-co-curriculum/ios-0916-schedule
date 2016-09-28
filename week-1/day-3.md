@@ -6,14 +6,11 @@ Let's make some cool stuff!
 
 Time        |   Plan   |
 ----------------|-------
-11 - 12          | Custom Classs Lecture
+9 - 12          | Work on Labs
 12 - 1    | Lunch
 1 - 2     | Icebreakers
-3 - 4     | BlackJack Lab Breakout
+3 - 4     | Classes Lab Breakout
 
-## Labs & Readmes Today
-
-  *Swift BlackJack
 
 ## Reading
 
