@@ -11,9 +11,6 @@ Time        |   Plan   |
 1 - 2     | Icebreakers
 3 - 4     | Classes Lab Breakout
 
-## Labs & Readmes Today
-
-  *Swift BlackJack
 
 ## Reading
 
