@@ -6,10 +6,10 @@ Classes!
 
 Time        |   Plan   |
 ----------------|-------
-11 - 12          | Inheritance Lecture
+9 - 12          | Catch up on Labs
 12 - 1    | Lunch
 1 - 2     | Icebreakers
-3 - 4     | Swift Vehicle Lab Breakout
+3 - 4     | TBD
 
 
 ## Reading
