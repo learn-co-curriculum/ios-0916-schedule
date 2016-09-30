@@ -12,7 +12,8 @@ Time        |   Plan   |
 3 - 4     | TBD
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7C3uLWibKXc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7C3uLWibKXc?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=7C3uLWibKXc">Classes Review - Pizza People</a></p>
 
 ## Reading
 
