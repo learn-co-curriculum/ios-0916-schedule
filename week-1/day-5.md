@@ -1,6 +1,6 @@
-# Day 5 - Monday, September 27, 2016
+# Day 5 - Friday, September 30, 2016
 
-Classes! // :blue_heart:
+Structs! // :blue_heart:
 
 Let's make some cool stuff!
 
