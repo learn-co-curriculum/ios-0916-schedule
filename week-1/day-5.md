@@ -19,6 +19,8 @@ Time        |   Plan   |
 
 * [Structs vs Classes](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
 * [Structs or Classes essay](http://faq.sealedabstract.com/structs_or_classes/)
+* [Subclassing can suck and heres why ](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+* [Mutating functions in swift ](https://www.natashatherobot.com/mutating-functions-swift-structs/)
 
 
 
