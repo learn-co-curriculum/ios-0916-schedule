@@ -12,6 +12,8 @@ Time        |   Plan   |
 3 - 4     | TBD
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7C3uLWibKXc" frameborder="0" allowfullscreen></iframe>
+
 ## Reading
 
 * [Oh shit, git!](http://ohshitgit.com/)
