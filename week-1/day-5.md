@@ -17,6 +17,10 @@ Time        |   Plan   |
 
 ## Reading
 
+* [Structs vs Classes](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
+* [Structs or Classes essay](http://faq.sealedabstract.com/structs_or_classes/)
+
+
 
 
 <br>
