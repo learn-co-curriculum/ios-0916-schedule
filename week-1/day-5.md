@@ -11,7 +11,9 @@ Time        |   Plan   |
 1 - 2     | Icebreakers
 3 - 4     | Structs Review
 
-## Labs & Readmes Today
+## Lecture
+
+* [Structs](https://docs.google.com/a/flatironschool.com/presentation/d/102NKCG73EoLT1svcw9KeHgvVnacNt6zz_hOP_6wit5M/edit?usp=sharing)
 
   *TBD
 
