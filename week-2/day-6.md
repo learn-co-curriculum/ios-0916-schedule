@@ -6,10 +6,10 @@ Enums! // :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
-11 - 12          | Blackjack Review
+9 - 12          | Work on Labs
 12 - 1    | Lunch
 1 - 2     | Icebreakers
-3 - 4     | Enums Lecture
+3 - 4     | Blackjack Review
 
 
 ## Labs & Readmes Today
