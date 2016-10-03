@@ -13,9 +13,8 @@ Time        |   Plan   |
 
 ## Lecture
 
-* [Structs](https://docs.google.com/a/flatironschool.com/presentation/d/102NKCG73EoLT1svcw9KeHgvVnacNt6zz_hOP_6wit5M/edit?usp=sharing)
-
-  *TBD
+* [Structs Presentation](https://docs.google.com/a/flatironschool.com/presentation/d/102NKCG73EoLT1svcw9KeHgvVnacNt6zz_hOP_6wit5M/edit?usp=sharing)
+* [Structs Lecture](https://www.youtube.com/embed/SofHFnR46VE)
 
 ## Reading
 
