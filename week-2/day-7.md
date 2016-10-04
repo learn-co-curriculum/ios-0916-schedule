@@ -1,4 +1,4 @@
-# Day 6 - Tuesday, October 4th, 2016
+# Day 7 - Tuesday, October 4th, 2016
 
 Enums! // :blue_heart:
 
