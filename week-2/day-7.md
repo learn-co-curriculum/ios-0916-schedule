@@ -14,7 +14,10 @@ Time        |   Plan   |
 
 ## Labs & Readmes Today
 
-  *TBD
+* Swift Enumerations Reading
+* Swift classEnum Lab
+* Swift EnumsFun Lab
+* Swift airportsAndEnums Lab
 
 ## Reading
 
