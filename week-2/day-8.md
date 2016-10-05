@@ -17,7 +17,9 @@ Time        |   Plan   |
 
 ## Labs & Readmes Today
 
-TBD
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znUByepABM4" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=znUByepABM4">Morning TableView Lecture</a></p>
 
 ## Reading
 
