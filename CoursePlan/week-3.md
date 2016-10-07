@@ -12,5 +12,3 @@ Wednesday   | Even More Protocols and Delegates
 Thursday     | Advanced Views - ScrollViews & Touches
 Friday | Advanced Views - ScrollViews & Touches
 
-
-* This schedule is subject to change
