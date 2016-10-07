@@ -1,6 +1,6 @@
 # Week 3 - Monday Oct 10 - Friday Oct 14
 
-More TableView! // :blue_heart:
+Views on Views on Views! // :blue_heart:
 
 
 
@@ -11,3 +11,6 @@ Tuesday   | Protocols and Delegates
 Wednesday   | Even More Protocols and Delegates
 Thursday     | Advanced Views - ScrollViews & Touches
 Friday | Advanced Views - ScrollViews & Touches
+
+
+* This schedule is subject to change
