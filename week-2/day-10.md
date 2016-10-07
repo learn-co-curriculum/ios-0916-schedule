@@ -14,6 +14,6 @@ Time        |   Plan   |
 430 - 5 | Work on Labs
 
 
-
+<a href="https://github.com/learn-co-curriculum/ios-0916/edit/master/CoursePlan/week-3.md">Week Schedule </a>
 
 <br>
