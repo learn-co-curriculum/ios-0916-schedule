@@ -16,4 +16,6 @@ Time        |   Plan   |
 
 <a href="https://github.com/learn-co-curriculum/ios-0916/blob/master/CoursePlan/week-3.md">Week Schedule </a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm2gidvHj8A" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Sm2gidvHj8A">Custom Cells Lab Review </a></p>
+
 <br>
