@@ -12,5 +12,8 @@ Time        |   Plan   |
 3 - 430 | Blogs / CollectionView Breakout
 430 - 6 | Work on Labs
 
+## Collection View Layout Lecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JzJAqBANmeQ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=JzJAqBANmeQ">Collection View Layout Lecture</a></p>
 
 
