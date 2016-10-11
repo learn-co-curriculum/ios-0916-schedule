@@ -8,6 +8,6 @@ Time        |   Plan   |
 ----------------|-------
 9 - 12          | Catch up and Finish Breakout Lab
 12 - 1   | Lunch
-1 - 3 | Work on Labs
+1 - 3 | Communications Workshop
 3 - 430 | Blogs / Intro to Constraints
 430 - 6 | Work on Labs
