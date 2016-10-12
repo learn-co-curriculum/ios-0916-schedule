@@ -7,6 +7,7 @@
 Time        |   Plan   |
 ----------------|-------
 9 - 11         | Labs
+10 - 11   | Week 2 Survey
 11 - 12   | Programmatic Constraints Lecture
 12 - 1    | Lunch
 1 - 3     | Work on Labs
