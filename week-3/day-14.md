@@ -1,7 +1,6 @@
 # Day 13 - Thursday, October 13th, 2016
 
-More constraints // :blue_heart:
-
+More constraints & Animations// :blue_heart:
 
 
 Time        |   Plan   |
