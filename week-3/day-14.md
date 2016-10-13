@@ -24,6 +24,6 @@ Time        |   Plan   |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/szFkn1-muUo?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=szFkn1-muUo">Space Lab Review</a></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l9OK2Ptln2c?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=l9OK2Ptln2c">Space Lab Review</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l9OK2Ptln2c?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=l9OK2Ptln2c">Animations Review</a></p>
 
 
