@@ -6,8 +6,8 @@ More Views with a sprinkling of Protocols // :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
-Monday         | ScrollView and Gesture Recognizers
-Tuesday   | Finishing up Gestures
+Monday         | ScrollView
+Tuesday   | Animation Review & Gestures Intro
 Wednesday   | Protocols
 Thursday     | Even More Protocols
 Friday | Omg More Protocols
