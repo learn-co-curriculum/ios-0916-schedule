@@ -18,3 +18,8 @@ Time        |   Plan   |
 # ScrollViews Lecture (sweet)
 
 TBA...
+
+
+# CoursePlan
+
+[Week 3 CoursePlan](https://github.com/learn-co-curriculum/ios-0916/blob/master/CoursePlan/week-4.md)
