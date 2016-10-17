@@ -7,11 +7,11 @@ Time        |   Plan   |
 ----------------|-------
 9 - 1015         | Labs on Labs on Labs
 1015 - 11   | Guest Speaker - Stephanie Guevara (Turing)
-11 - 12 | Lecture - ScrollViews
+11 - 12 | Lecture - ScrollViews (Turing)
 12 - 1    | Lunch
 1 - 3     | Labs
-3 - 430 | Blogs / Gesture Recognizer Lecture
-430 - 6 | Pair programming mash up Gestures & ScrollViews
+3 - 430 | Blogs / Gesture Recognizer Lecture (Kay)
+430 - 6 | Pair programming mash up Gestures & ScrollViews (Borg)
 
 
 
