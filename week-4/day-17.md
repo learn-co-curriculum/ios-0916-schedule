@@ -22,3 +22,8 @@ TBA...
 
 [Week 3 CoursePlan](https://github.com/learn-co-curriculum/ios-0916/blob/master/CoursePlan/week-4.md)
 [Week 4 CoursePlan](https://github.com/learn-co-curriculum/ios-0916/blob/master/CoursePlan/week-5.md)
+
+# Readings
+[setNeedsLayout vs layoutIfNeeded Explained](http://www.iosinsight.com/setneedslayout-vs-layoutifneeded-explained/)
+[Animating-AutoLayout-Constraints](http://useyourloaf.com/blog/animating-autolayout-constraints/)
+[LayoutIfNeeded](https://developer.apple.com/reference/uikit/uiview/1622507-layoutifneeded#discussion)
