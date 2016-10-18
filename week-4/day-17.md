@@ -6,7 +6,7 @@ Animations Review// :blue_heart:
 Time        |   Plan   |
 ----------------|-------
 9 - 10       | Finish up those labs
-10 - 12   | Review on Animations Labs
+10:30 - 12   | Review on Animations Labs
 12 - 1    | Lunch
 1 - 3     | Labs (Prep for gesture recognizers)
 3 - 4:30 | Blogs & Gesture Lecture
