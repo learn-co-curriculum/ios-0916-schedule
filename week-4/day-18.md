@@ -25,10 +25,8 @@ Time        |   Plan   |
 * [POP in the Real World](http://matthewpalmer.net/blog/2015/08/30/protocol-oriented-programming-in-the-real-world/)
 
 
-### Out Sick
-Me
-![Me](http://i.giphy.com/xT77XZR8ZkwSnSQx8I.gif)
+### Out Sick Today - Me vs The Rest of the Team
 
-The rest of the Team
+![Me](http://i.giphy.com/xT77XZR8ZkwSnSQx8I.gif)
 ![The Team](http://i.giphy.com/3osxYb0cBjLcp8Cbh6.gif)
 
