@@ -23,3 +23,12 @@ Time        |   Plan   |
 * [Protocols in Swift](http://www.codingexplorer.com/protocols-swift/)
 * [WWDC - Protocol Oriented Programming](https://developer.apple.com/videos/play/wwdc2015/408/)
 * [POP in the Real World](http://matthewpalmer.net/blog/2015/08/30/protocol-oriented-programming-in-the-real-world/)
+
+
+### Out Sick
+Me
+![Me](http://i.giphy.com/xT77XZR8ZkwSnSQx8I.gif)
+
+The rest of the Team
+![The Team](http://i.giphy.com/3osxYb0cBjLcp8Cbh6.gif)
+
