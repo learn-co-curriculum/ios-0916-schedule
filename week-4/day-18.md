@@ -5,11 +5,11 @@ Gestures// :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
-9 - 10:30       | Read up on gestures
-10:30 - 12   | Gestures (Kay)
+9 - 12       | Pair Programming
 12 - 1    | Lunch
-1 - 3     | Protocols (Kay)
-3 - 6 | Protocols Labs
+1 - 3 | Pair Programming
+3 - 3:30     | Blogs
+3:30 - 5:30 | Protocols (Kay)
 
 
 
