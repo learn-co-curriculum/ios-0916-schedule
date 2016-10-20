@@ -5,8 +5,7 @@ Protocols// :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
-10 - 11       | Pair Programming Lecture
-11 - 12 | Work on Labs
+10:30 - 11:30       | Pair Programming Lecture
 12 - 1    | Lunch
 1 - 3 | Work on Labs
 3 - 3:30     | Blogs
