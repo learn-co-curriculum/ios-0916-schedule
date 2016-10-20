@@ -1,6 +1,6 @@
-# Day 18 - Wednesday, October 19th, 2016
+# Day 19 - Thursday, October 20th, 2016
 
-Gestures// :blue_heart:
+Protocols// :blue_heart:
 
 
 Time        |   Plan   |
