@@ -8,7 +8,7 @@ Time        |   Plan   |
 10 - 12      | Pair Programming Protocols
 12 - 1    | Lunch
 1 - 230 | Pair programming continued
-230 - 330 | Feels
-330 - 5 | Whiteboarding & Algos
+330 - 430 | Feels
+430 - 530 | Whiteboarding & Algos
 
 
