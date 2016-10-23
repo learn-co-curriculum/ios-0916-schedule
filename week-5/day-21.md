@@ -2,11 +2,7 @@
 
 Internetz // :bowtie:
 
-> Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch..
 
-> Physicists analyze systems. Web scientists, however, can create the systems.
-
-> When I invented the web, I didn't have to ask anyone's permission. 
 
 > The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. - (https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
@@ -18,6 +14,15 @@ Time        |   Plan   |
 3 - 330 | Blogs
 330 - 430 | Whiteboarding & Algos
 
+
+
+### More Tim Berners-Lee Quotes
+
+> Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch..
+
+> Physicists analyze systems. Web scientists, however, can create the systems.
+
+> When I invented the web, I didn't have to ask anyone's permission. 
 
 
 ### Readings
@@ -34,5 +39,9 @@ Time        |   Plan   |
 * [Some more on completion handlers](https://grokswift.com/completion-handlers-in-swift/)
 * [Closures](http://ashishkakkad.com/2016/02/use-of-blocks-closures-or-completionhandlers-with-function-in-swift-ios/)
 * [Some more Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
+
+
+If you've gotten this far, here's a pic of a cat looking at himself on the internet
+![Cat on Internet](http://i.giphy.com/l3V0vXlWQVdTK3TXO.gif)
 
 
