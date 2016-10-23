@@ -2,6 +2,10 @@
 
 Internetz // :bowtie:
 
+> Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch..
+
+> Physicists analyze systems. Web scientists, however, can create the systems. - (https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+
 
 Time        |   Plan   |
 ----------------|-------
