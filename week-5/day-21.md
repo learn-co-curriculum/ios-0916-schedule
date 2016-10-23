@@ -4,7 +4,11 @@ Internetz // :bowtie:
 
 > Anyone who has lost track of time when using a computer knows the propensity to dream, the urge to make dreams come true and the tendency to miss lunch..
 
-> Physicists analyze systems. Web scientists, however, can create the systems. - (https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+> Physicists analyze systems. Web scientists, however, can create the systems.
+
+> When I invented the web, I didn't have to ask anyone's permission. 
+
+> The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past. - (https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 
 
 Time        |   Plan   |
