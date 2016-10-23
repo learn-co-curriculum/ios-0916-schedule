@@ -16,6 +16,11 @@ Time        |   Plan   |
 3 - 330 | Blogs
 430 - 6 | Whiteboarding & Algos
 
+### Necessary Downloads for Class
+
+[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+[jsonView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
 
 
 ### More Tim Berners-Lee Quotes
