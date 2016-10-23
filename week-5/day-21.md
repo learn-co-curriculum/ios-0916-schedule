@@ -20,3 +20,19 @@ Time        |   Plan   |
 
 
 
+### Readings
+
+* [NSURLSession](https://developer.apple.com/reference/foundation/nsurlsession)
+* [Lifecycle of a URL Session](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/URLLoadingSystem/NSURLSessionConcepts/NSURLSessionConcepts.html)
+* [NSURLSession - Getting Started](https://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started)
+* [URL Session Tutorial](http://mrgott.com/swift-programing/30-work-with-rest-api-in-swift-3-and-xcode-8-using-urlsession-and-jsonserialization)
+* [Working with JSON in Swift](https://developer.apple.com/swift/blog/?id=37)
+
+
+### Extra Reading
+* [Completion Handlers ](https://thatthinginswift.com/completion-handlers/)
+* [Some more on completion handlers](https://grokswift.com/completion-handlers-in-swift/)
+* [Closures](http://ashishkakkad.com/2016/02/use-of-blocks-closures-or-completionhandlers-with-function-in-swift-ios/)
+* [Some more Closures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
+
+
