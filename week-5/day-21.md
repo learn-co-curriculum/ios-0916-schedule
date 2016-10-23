@@ -39,6 +39,7 @@ Time        |   Plan   |
 * [NSURLSession - Getting Started](https://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started)
 * [URL Session Tutorial](http://mrgott.com/swift-programing/30-work-with-rest-api-in-swift-3-and-xcode-8-using-urlsession-and-jsonserialization)
 * [Working with JSON in Swift](https://developer.apple.com/swift/blog/?id=37)
+* [Do, Try, Catch](https://www.hackingwithswift.com/new-syntax-swift-2-error-handling-try-catch)
 
 
 ### Extra Reading
