@@ -9,8 +9,10 @@ Internetz // :bowtie:
 
 Time        |   Plan   |
 ----------------|-------
-10 - 12      | Intro to the Internet
+9 - 11 | Catch up on labs
+11 - 12      | Intro to the Internet
 12 - 1    | Lunch
+1 - 3 | Work on Internet Lab
 3 - 330 | Blogs
 330 - 430 | Whiteboarding & Algos
 
