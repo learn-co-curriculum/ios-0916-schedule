@@ -16,6 +16,10 @@ Time        |   Plan   |
 3 - 330 | Blogs
 430 - 6 | Whiteboarding & Algos
 
+
+### Lecture Slides
+* [Lecture Slides](https://docs.google.com/presentation/d/1HHLrSZ7LdjMFmjBtGehojT3DaP-WAWgBsamUcjZ40Lc/edit?usp=sharing)
+
 ### Necessary Downloads for Class
 
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
