@@ -20,6 +20,8 @@ Time        |   Plan   |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x5hTxg_4zZc?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=x5hTxg_4zZc">Internet Intro Lecture</a></p>
 
+[Star Wars Code](https://github.com/learn-co-curriculum/swift-urlsession-sample)
+
 
 ### Lecture Slides
 * [Lecture Slides](https://docs.google.com/presentation/d/1HHLrSZ7LdjMFmjBtGehojT3DaP-WAWgBsamUcjZ40Lc/edit?usp=sharing)
