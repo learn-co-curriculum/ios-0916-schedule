@@ -8,8 +8,9 @@ Time        |   Plan   |
 9 - 11 | Catch up on labs
 11 - 12      | Whiteboarding
 12 - 1    | Lunch
-1 - 3 | Keep working on Labs
-3 - 430 | Singleton & Closures
+1 - 230 | Keep working on Labs
+230 - 330| Speaker Talk
+330 - 5 | Singleton & Closures
 
 ### Must watch
 
