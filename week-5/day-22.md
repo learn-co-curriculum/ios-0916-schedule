@@ -12,6 +12,34 @@ Time        |   Plan   |
 230 - 330| Speaker Talk
 330 - 5 | Singleton & Closures
 
+# Intro To Closures
+
+**NOTE:** You can't download this video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEOtJ1bC0nk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=bEOtJ1bC0nk">Intro To Closures</a></p>
+
+# Closure Expression Syntax
+
+
+**NOTE:** You can't download this video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JztqpRJ6fsw?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=JztqpRJ6fsw">Closure Expression Syntax</a></p>
+
+# Map & Closures
+
+
+**NOTE:** You can't download this video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3wfJCfxhnw?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Q3wfJCfxhnw">Intro To Closures</a></p>
+
+# Filter and Reduce - Closures
+
+
+**NOTE:** You can't download this video!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ievEyDNq2WU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=ievEyDNq2WU"></a></p>
+
+
 ### Must watch
 
 * [Functions as Types - Closures](https://www.youtube.com/watch?v=AbGul81_X4s)
