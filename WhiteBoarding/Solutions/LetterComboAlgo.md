@@ -2,7 +2,7 @@
  
  Given a digit string, return all possible letter combinations that the number could represent.
  
- ![Phone](http://imgur.com/a/URIy3)
+ ![Phone](http://i.imgur.com/QU0bTMw.png)
 
 
 ```
