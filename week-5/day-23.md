@@ -38,6 +38,11 @@ Time        |   Plan   |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ievEyDNq2WU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=ievEyDNq2WU"></a></p>
 
+
+# Closures Lecture Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V9J-XYqnKNw?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=V9J-XYqnKNw">Closures Lecture</a></p>
+
 ### Must watch
 
 * [Functions as Types - Closures](https://www.youtube.com/watch?v=AbGul81_X4s)
