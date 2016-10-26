@@ -1,4 +1,4 @@
-# Day 23 - Tuesday, October 26th, 2016
+# Day 23 - Wednesday, October 26th, 2016
 
 Internetz continued // :bowtie:
 
