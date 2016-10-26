@@ -9,7 +9,7 @@ Time        |   Plan   |
 11 - 12      | Closure Lecture (Kay)
 12 - 1    | Lunch
 1 - 330 | Labs
-330 - 600| Whiteboarding Event at UsTWo
+330 - 600| Whiteboarding Event at ustwo
 
 # Intro To Closures
 
