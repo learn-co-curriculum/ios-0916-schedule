@@ -1,6 +1,6 @@
 # Day 23 - Wednesday, October 26th, 2016
 
-Internetz continued // :bowtie:
+Closures Fun // :bowtie:
 
 
 Time        |   Plan   |
