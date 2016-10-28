@@ -6,8 +6,9 @@ Internets  // :bowtie:
 Time        |   Plan   |
 ----------------|-------
 9 - 10 | Wrap up Github List Lab
-10 - 12      | Internet breakout
+10 - 12      | Internet Breakout
 12 - 1    | Lunch
+1 - 230 | Finish up Breakout
 230 - 330     | Lecture - Even more internet
 330 - 430 | Feelings 
 430 - 6 | Party Time :boom:
