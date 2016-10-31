@@ -10,5 +10,5 @@ Time        |   Plan   |
 12 - 1    | Lunch
 1 - 3 | Finish up Breakout
 3 - 330     | Blogs
-330 - 430 | Lecture
+330 - 430 | Lecture Oauth
 430 - 6 | Work on Labs
