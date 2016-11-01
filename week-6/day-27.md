@@ -26,4 +26,6 @@ Time        |   Plan   |
 
 
 ### Lecture Videos
- <iframe width="560" height="315" src="https://www.youtube.com/embed/mQi14z37_Rk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=mQi14z37_Rk">Github Advanced</a></p>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mQi14z37_Rk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=mQi14z37_Rk">Github Advanced 10/28</a></p>
+ 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p0UTI3U_sto?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=p0UTI3U_sto">Playing With Alamofire - 10/31</a></p>
