@@ -1,4 +1,4 @@
-# Week 6 - Monday Nov 7 - Friday Nov 11
+# Week 6 - Monday Oct 31 - Friday Nov 4
 
 I can haz Interwebs! // :blue_heart:
 
@@ -6,8 +6,8 @@ I can haz Interwebs! // :blue_heart:
 
 Time        |   Plan   |
 ----------------|-------
-Monday         | Core Data Intro
-Tuesday   | Election - TBD
-Wednesday   | Core Data
-Thursday     | Core Data
-Friday | Core Data
+Monday         | Internet
+Tuesday   | Oauth
+Wednesday   | Multithreading
+Thursday     | Multithreading
+Friday | Multithreading
