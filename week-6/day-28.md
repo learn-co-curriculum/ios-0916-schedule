@@ -1,6 +1,6 @@
 # Day 28 - Wednesday, November 2nd, 2016
 
-Internets  // :bowtie:
+Multithreading  // :neckbeard:
 
 
 Time        |   Plan   |
