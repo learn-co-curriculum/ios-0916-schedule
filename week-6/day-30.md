@@ -19,3 +19,7 @@ Time        |   Plan   |
 * [NSOperationQueue](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
 * [Concurrency](https://www.appcoda.com/ios-concurrency/)
 * [GCD or NSOperation](https://cocoacasts.com/choosing-between-nsoperation-and-grand-central-dispatch/)
+
+
+### Multithreading
+ * [Multithreading](https://www.youtube.com/watch?v=klaIuD6dF_8)
