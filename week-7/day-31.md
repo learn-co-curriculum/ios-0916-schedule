@@ -36,4 +36,3 @@ Traditional databases are organized by fields, records, and files. A field is a 
 ### Diagrams
 
 ![](https://www.objc.io/images/issue-4/stack-simple-9af1e89d.png)
-![](https://www.objc.io/images/issue-4/stack-complex-dc540ef4.png)
