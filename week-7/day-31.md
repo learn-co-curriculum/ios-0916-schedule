@@ -1,6 +1,6 @@
 # Day 31 - Monday, November 6th, 2016
 
-Core Data :blue_heart
+Core Data :blue_heart:
 
 
 Time        |   Plan   |
@@ -11,6 +11,7 @@ Time        |   Plan   |
 1 - 3 | Keep working on Labs
 3 - 430     | Lecture
 430 - 6 | Work on Labs
+6 - 8 | Office Hours :neckbeard:
 
 
 * [Core Data - Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/)
