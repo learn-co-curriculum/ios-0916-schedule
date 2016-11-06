@@ -5,13 +5,8 @@ Election Day!!!!  :boom:
 
 Time        |   Plan   |
 ----------------|-------
-9 - 10 | Keep working on Labs
-10 - 12      | Lecture
-12 - 1    | Lunch - Hal Day 
-1 - 2 | Work on Labs some more
-2 - 6 | Go Vote
-
-
+Rock the Vote | 9 - 6
+Review Sessions | TBD 
 
 
 
