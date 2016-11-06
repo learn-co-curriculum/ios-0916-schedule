@@ -22,6 +22,7 @@ Time        |   Plan   |
 
 ### Videos 
 * [Core Data WWDC](https://developer.apple.com/videos/play/wwdc2016/242/)
+* [Core Data OverView](https://www.youtube.com/watch?v=da6W7wDh0Dw)
 
 
 ### Database Stuff sans Core Data
