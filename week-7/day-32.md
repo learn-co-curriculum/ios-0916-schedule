@@ -1,6 +1,6 @@
 # Day 32 - Tuesday, November 7th, 2016
 
-Election Day :blue_heart
+Election Day!!!!  :boom:
 
 
 Time        |   Plan   |
