@@ -13,6 +13,8 @@ Time        |   Plan   |
 6 - 8 | Office Hours :neckbeard:
 
 
+*See Readings below before lecture
+
 * [Core Data - Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/)
 * [Core Data - Reference Apple](https://developer.apple.com/reference/coredata)
 * [Core Data Overview ](https://www.objc.io/issues/4-core-data/core-data-overview/)
