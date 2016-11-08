@@ -13,6 +13,12 @@ Time        |   Plan   |
 6 - 8 | Office Hours :neckbeard:
 
 
+### Lecture Videos
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/u1suPz_ywbk?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=u1suPz_ywbk">11/7 Core Data </a></p>
+
+
+
 *See Readings below before lecture
 
 * [Core Data - Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/)
