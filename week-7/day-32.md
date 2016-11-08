@@ -10,7 +10,7 @@ Rock the Vote | 9 - 6
 3 - 430 | Protocols & Delegates
 5 - 6 | Gestures with Animations 
 
-* (Closure Review)[https://github.com/learn-co-curriculum/swift-Closures-review]
+* [Closure Review](https://github.com/learn-co-curriculum/swift-Closures-review)
 
 * Review sessions are optional. Students will be working on smaller practice problems and we will be working through problems and doing solutions. Goal is to get a better handle working on these topics through coded examples
 
