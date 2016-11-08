@@ -6,8 +6,11 @@ Election Day!!!!  :boom:
 Time        |   Plan   |
 ----------------|-------
 Rock the Vote | 9 - 6
-Review Sessions | TBD 
+1 - 230 | Closure Session
+245 - 415 | Protocols & Delegates
+430 - 6 | Gestures with Animations 
 
+* Review sessions are optional. Students will be working on smaller practice problems and we will be working through problems and doing solutions. Goal is to get a better handle working on these topics through coded examples
 
 
 ### Random Election Facts
