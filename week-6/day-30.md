@@ -21,5 +21,5 @@ Time        |   Plan   |
 * [GCD or NSOperation](https://cocoacasts.com/choosing-between-nsoperation-and-grand-central-dispatch/)
 
 
-### Multithreading
- * [Multithreading](https://www.youtube.com/watch?v=klaIuD6dF_8)
+### Multithreading - 11/4
+ * [Multithreading](https://www.youtube.com/watch?v=2-LAa8oUkdM)
