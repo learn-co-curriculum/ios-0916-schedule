@@ -5,5 +5,9 @@ Review :blue_heart
 
 Time        |   Plan   |
 ----------------|-------
-9 - 6 | Catch up on Labs
-Optional Review Sessions | TBD
+930 - 11 | CoreData Relationships
+11 - 12 | Work on Labs
+12 - 1 | Lunch
+1 - 430 | Work on Labs
+430 - 6 | CoreData Relationships Review
+
