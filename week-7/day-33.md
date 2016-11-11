@@ -16,3 +16,7 @@ Time        |   Plan   |
 * [Core Data Relationship with Fetching](https://code.tutsplus.com/tutorials/core-data-and-swift-relationships-and-more-fetching--cms-25070)
 * [Core Data Entities and Relationships](https://cocoacasts.com/data-model-entities-and-relationships/)
 
+### Lecture Videos
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/mKte5nwkjG0w?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=mKte5nwkjG0">11/9 CoreData SlapChat Review  </a></p>
+
