@@ -5,5 +5,8 @@ Review :blue_heart
 
 Time        |   Plan   |
 ----------------|-------
-9 - 6 | Catch up on Labs
-Optional Review Sessions | TBD
+930 - 11 | Git
+12 - 1 | Lunch
+1 - 330 | Labs / Project Work
+330 - 430 | Feelings
+
