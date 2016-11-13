@@ -4,4 +4,6 @@
 Time        |   Plan   |
 ----------------|-------
 930 - 11 | MVVM Lecture
-11 - 6 | Work on Projects
+11 - 230 | Work on Projects
+230 - 330 | Project Demos
+330 - 6 | Work on Projects
