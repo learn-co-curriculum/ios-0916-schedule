@@ -3,5 +3,5 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 10 | Algorithm Practice
-10 - 6 | Work on Projects
+930 - 11 | Firebase Lecture
+11 - 6 | Work on Projects
