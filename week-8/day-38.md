@@ -1,7 +1,8 @@
-# Day 38 - Wedneday, November 15th, 2016
+# Day 38 - Wedneday, November 16th, 2016
 
 
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | Firebase Lecture
-11 - 6 | Work on Projects
+930 - 1015 | Career Services
+1015 - 330 | Work on Projects
+330 - 430 | Firebase Lecture
