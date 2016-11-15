@@ -1,4 +1,4 @@
-# Day 37 - Tuesday, November 14th, 2016
+# Day 37 - Tuesday, November 15th, 2016
 
 
 Time        |   Plan   |
