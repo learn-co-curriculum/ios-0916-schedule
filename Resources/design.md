@@ -1,6 +1,5 @@
-![](https://s3.amazonaws.com/learn-verified/make-it-pretty.png)
-
 # iOS Design Resources
+#### Make it pretty, not sh*tty
 
 ## Inspiration:
 
