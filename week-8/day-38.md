@@ -3,6 +3,11 @@
 
 Time        |   Plan   |
 ----------------|-------
+900 - 930 | Stand Ups
 930 - 1015 | Career Services
-1015 - 330 | Work on Projects
-330 - 430 | Firebase Lecture
+1015 - 1100 | Work on Projects
+1100 - 1200 | Optional Firebase Lecture (Kay)
+1200 - 100 | Lunch
+100 - 300 | Work on Projects
+300 - 330 | Firebase Lecture
+330 - 600 | Work on Projects
