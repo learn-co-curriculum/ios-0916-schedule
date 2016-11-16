@@ -8,6 +8,4 @@ Time        |   Plan   |
 1015 - 1100 | Work on Projects
 1100 - 1200 | Optional Firebase Lecture (Kay)
 1200 - 100 | Lunch
-100 - 300 | Work on Projects
-300 - 330 | Firebase Lecture
-330 - 600 | Work on Projects
+100 - 600 | Work on Projects
