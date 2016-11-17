@@ -3,6 +3,9 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 10 | Algorithm Practice
-11 - 12 | Blogs
-10 - 6 | Work on Projects
+915 - 1015 | Algorithm Practice
+1015 - 1200 | Project Mode
+1200 - 100 | Lunch
+100 - 145 | Work on Projects
+145 - 245 | Github Review
+245 - 6 | Work on Projects
