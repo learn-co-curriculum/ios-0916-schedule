@@ -3,5 +3,5 @@
 
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | Protocol Oriented Programming
+930 - 11 | Working with Nibs
 11 - 6 | Work on Projects
