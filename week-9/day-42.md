@@ -3,6 +3,6 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 10 | Algorithm Practice
-10 - 1030 | Standups
+915 - 1015 | Algorithm Practice
+1015 - 1045 | Standups
 11 - 6 | Work on Projects
