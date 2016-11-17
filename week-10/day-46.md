@@ -3,5 +3,5 @@
 
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | Container View Lecture
+930 - 11 | NSUserdefaults
 11 - 6 | Work on Projects
