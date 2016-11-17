@@ -3,6 +3,7 @@
 
 Time        |   Plan   |
 ----------------|-------
+
 915 - 1015 | Algorithm Practice
 1015 - 1200 | Project Mode
 1200 - 100 | Lunch
