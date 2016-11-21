@@ -1,7 +1,10 @@
 # Day 41  - Monday, November 21st, 2016
 
 
+Core Data Assessments Today!
+
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | Working with Nibs
-11 - 6 | Work on Projects
+9 - 6 | Working on Projects
+
+
