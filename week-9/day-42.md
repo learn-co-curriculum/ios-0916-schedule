@@ -3,6 +3,6 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 1015 | Algorithm Practice
-1015 - 1045 | Standups
+900 - 1000| Standups
+1000 - 1100 | Xib lecture (optional)
 11 - 6 | Work on Projects
