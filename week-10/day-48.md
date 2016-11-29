@@ -3,5 +3,7 @@
 
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | Analytics Lecture
-11 - 6 | Work on Projects
+915 - 10 | Algos 
+10 - 330 | Project Mode
+330 - 430 | MVVM Lecture - Optional
+430 - 6 | Project Mode
