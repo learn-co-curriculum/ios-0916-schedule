@@ -3,5 +3,6 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 10 | Algorithm Practice
-10 - 6 | Work on Projects
+9 - 330 | Work on Projects
+330 - 430 | Weak vs Strong 
+430 - 6 | Work on Projects
