@@ -4,6 +4,5 @@
 Time        |   Plan   |
 ----------------|-------
 915 - 10 | Algos 
-10 - 330 | Project Mode
-330 - 430 | MVVM Lecture - Optional
-430 - 6 | Project Mode
+1100 - 1145 | Career Services (elevator pitches)
+100 - 600 | Project Mode
