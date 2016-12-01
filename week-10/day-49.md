@@ -3,5 +3,7 @@
 
 Time        |   Plan   |
 ----------------|-------
-915 - 10 | Algorithm Practice
-10 - 6 | Work on Projects
+9 - 930 | Stand-ups
+930 - 330 | Work on Projects
+330 - 430 | MVVM Lecture in Kay (optional)
+430 - 6 | Work on Projects
