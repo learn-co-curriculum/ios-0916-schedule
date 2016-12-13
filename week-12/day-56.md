@@ -1,7 +1,7 @@
-# Day 50  - Friday, Dec 2nd, 2016
+# Day 56  - Monday, Dec 12nd, 2016
 
 
 Time        |   Plan   |
 ----------------|-------
-930 - 11 | tvOS and WatchOS
-11 - 6 | Work on Projects
+900 - 930 | Standups
+930 - 6 | Work on Projects
