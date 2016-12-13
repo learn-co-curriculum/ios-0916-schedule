@@ -5,4 +5,4 @@ Time        |   Plan   |
 ----------------|-------
 900 - 0930 | Standups
 1030 - 12 | Generics and Data Structures
-100 - 600 | Get the app in the store
+12 - 6 | Get app in the app store
