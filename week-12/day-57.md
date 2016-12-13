@@ -4,5 +4,5 @@
 Time        |   Plan   |
 ----------------|-------
 900 - 0930 | Standups
-1030 - 12 | Generics and Data Structures
+1030 - 12 | Generics and Data Structures - Borg
 12 - 6 | Get app in the app store
