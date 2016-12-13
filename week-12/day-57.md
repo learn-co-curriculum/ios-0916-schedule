@@ -3,6 +3,6 @@
 
 Time        |   Plan   |
 ----------------|-------
-900 - 11 | Projects
-11 - 12 | O Notation
+900 - 1030 | Projects
+1030 - 12 | Generics & Data Structures
 12 - 6 | Projects
